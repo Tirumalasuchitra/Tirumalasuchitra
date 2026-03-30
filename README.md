@@ -1,16 +1,13 @@
-## Hi there 👋
+**Hi there, I'm Suchitra**! 👋
+I am an aspiring **Data Analyst** currently building my portfolio and mastering the tools of the trade. I enjoy turning raw data into clear stories that help people make better decisions.
 
-<!--
-**Tirumalasuchitra/Tirumalasuchitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ My Toolbox
+• Data Visualization: Power BI, Excel
+• Data Processing: SQL (MySQL), Python
+• Version Control: Git & GitHub (Learning every day!)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Current Focus
+• Developing data reports using financial datasets.
+• Practicing complex SQL queries and data cleaning in Python.
+ 
+Feel free to explore my repositories or connect with me!
