@@ -2,6 +2,7 @@
 I am an aspiring **Data Analyst** currently building my portfolio and mastering the tools of the trade. I enjoy turning raw data into clear stories that help people make better decisions.
 
 🛠️ My Toolbox
+
 • Data Visualization: Power BI, Excel      
 
 • Data Processing: SQL (MySQL), Python
