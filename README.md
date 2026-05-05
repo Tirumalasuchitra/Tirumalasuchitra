@@ -10,6 +10,7 @@ I am an aspiring **Data Analyst** currently building my portfolio and mastering 
 • Version Control: Git & GitHub (Learning every day!)
 
 📈 Current Focus
+
 • Developing data reports using financial datasets.
 
 • Practicing complex SQL queries and data cleaning in Python.
