@@ -1,18 +1,22 @@
-**Hi there, I'm Suchitra**! 👋
-I am an aspiring **Data Analyst** currently building my portfolio and mastering the tools of the trade. I enjoy turning raw data into clear stories that help people make better decisions.
+# Hi, I'm Naga Suchitra 👋
 
-🛠️ My Toolbox
+I am an aspiring Data Analyst focused on SQL, Power BI, Excel, and Python. I enjoy analyzing business and operational data to identify patterns, improve reporting, and uncover actionable insights.
 
-• Data Visualization: Power BI, Excel      
+Currently, I am building hands-on projects in areas such as:
+- E-commerce profitability analysis
+- HR attrition analysis
+- KPI and dashboard development
 
-• Data Processing: SQL (MySQL), Python
+## Tools & Skills
+- SQL (MySQL)
+- Power BI
+- Excel
+- Python
+- Git & GitHub
 
-• Version Control: Git & GitHub (Learning every day!)
+## Current Focus
+- Improving SQL problem-solving and query optimization
+- Building interactive dashboards in Power BI
+- Strengthening Python skills for data cleaning and analysis
 
-📈 Current Focus
-
-• Developing data reports using financial datasets.
-
-• Practicing complex SQL queries and data cleaning in Python.
- 
-Feel free to explore my repositories or connect with me!
+Feel free to explore my repositories and project work.
